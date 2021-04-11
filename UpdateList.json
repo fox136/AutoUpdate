@@ -1,0 +1,72 @@
+{
+	"AutoUpdater": {
+		"Application": {
+			"applicationId": "股讯大数�?exe",
+			"EntryPoint": "股讯大数�?exe",
+			"Location": "."
+		},
+	"Updater": {
+		"Url": "http://www.guxunw.com/*************",
+		"IP": "www.guxunw.com",
+		"LastUpdateTime": "2012-10-15"
+	},
+		"Files": [
+			{
+				"Ver": "3",
+				"Name": "imageformats/qjpeg.dll"
+			},
+			{
+				"Ver": "6",
+				"Name": "imageformats/qico.dll"
+			},
+			{
+				"Ver": "8",
+				"Name": "init.ini"
+			},
+			{
+				"Ver": "2",
+				"Name": "libhsr.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "libmysql.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "msvcp120.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "msvcr120.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "platforms/qwindows.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "Qt5Core.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "Qt5Gui.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "Qt5PrintSupport.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "Qt5Widgets.dll"
+			},
+			{
+				"Ver": "1",
+				"Name": "UpdateList.xml"
+			},
+			{
+				"Ver": "1",
+				"Name": "股讯大数�?exe"
+			}
+		]
+	}
+}
